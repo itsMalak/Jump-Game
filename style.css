@@ -35,7 +35,7 @@
     left: 480px;
 }
 .animateb{
-     animation: block 1s infinite linear;
+     animation: block 1.5s infinite linear;
 }
 @keyframes block{
     0%{left: 480px}
